@@ -10,10 +10,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building web3 projects
-- 🌱 I’m currently learning React+JS+Hardhat & Flutter integration with Blockchains
-- 👯 I’m looking to collaborate on Web3 startups
-- 🤔 I’m looking for help with web3 gigs
+- 🔭 I’m currently working on building ERP projects
+- 🌱 I’m currently learning React+JS+Hardhat & Flutter integration with ERP
+- 👯 I’m looking to collaborate on ERP startups
+- 🤔 I’m looking for help with ERP gigs
 - 💬 Ask me about philosophy, technology & religion
 - 📫 How to reach me: mohammedamik@gmail.com
 - 😄 Pronouns: He/Him (Since there are 2 genders)
